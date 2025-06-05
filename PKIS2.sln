@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programming of corporate industrial systems Practice 2", "src\Programming of corporate industrial systems Practice 2\Programming of corporate industrial systems Practice 2.csproj", "{89528D79-EA17-9719-107D-247FADBDC7E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programming_of_corporate_industrial_systems_Practice_2.Tests", "tests\Programming_of_corporate_industrial_systems_Practice_3.Tests\Programming_of_corporate_industrial_systems_Practice_2.Tests.csproj", "{B1CA8BD1-DF3E-1D2A-A965-FBD90E370024}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89528D79-EA17-9719-107D-247FADBDC7E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89528D79-EA17-9719-107D-247FADBDC7E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89528D79-EA17-9719-107D-247FADBDC7E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89528D79-EA17-9719-107D-247FADBDC7E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1CA8BD1-DF3E-1D2A-A965-FBD90E370024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1CA8BD1-DF3E-1D2A-A965-FBD90E370024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1CA8BD1-DF3E-1D2A-A965-FBD90E370024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1CA8BD1-DF3E-1D2A-A965-FBD90E370024}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60809B2C-7540-4AEC-8E95-EDE7CFEC22E0}
+	EndGlobalSection
+EndGlobal
